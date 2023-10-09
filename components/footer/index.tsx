@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="site-footer__top">
           <div className="site-footer__description">
-            <h6><Logo /> <span>E</span>-Shop</h6>
+            <h6><Logo /> <span>DIMA RESIST</span></h6>
             <p>House My Brand designs clothing for the young, the old & everyone in between – but most 
               importantly, for the fashionable</p>
             <ul className="site-footer__social-networks">
